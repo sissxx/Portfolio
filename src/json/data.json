@@ -1,0 +1,90 @@
+[
+   {
+      "course":"HTML/CSS",
+      "data":"Certificate grade: 6.00",
+      "university":"Semptember 2020",
+      "description":[
+         "Create responsive web design",
+         "Create modern websites",
+         "Use basics of the web design and building web pages",
+         "Style websites with CSS and position elements",
+         "Create static web pages"
+      ]
+   },
+   {
+      "course":"BASIC JAVASCRIPT",
+      "data":"Certificate grade: 6.00",
+      "university":"January 2021",
+      "description":[
+         "Work with the console- input and output",
+         "Simple calculations",
+         "Work with conditions - if-else",
+         "Work with more logical checks and loops (for)",
+         "Work with more complex loops (nested loops and while loop)"
+      ]
+   },
+   {
+      "course":"JS Fundamentals",
+      "university":"Software University",
+      "description":[
+         "Lineat structures",
+         "Classes and objects",
+         "Functions and JSON",
+         "Make informations retrievel and manipulation of the DOM tree",
+         "Use functional programming and OOP"
+      ]
+   },
+    {
+       "course":"JS ADVANCED",
+       "data":"Certificate grade: 6.00",
+       "university":"January 2022",
+       "description":[
+          "Unit testing and the fundamental concepts of code testing.",
+          "Make informations retrievel and manipulation of the DOM tree, and working with events",
+          "Classes and objects",
+          "Functions and JSON",
+          "Use functional programming and OOP"
+       ]
+    },
+    {
+      "course":"JS APPLICATIONS",
+      "data":"Certificate grade: 6.00",
+      "university":"February 2022",
+      "description":[
+         "Work with REST API and asynchronous programming",
+         "Use HTTP and make requests",
+         "Creating SAP applications entirely written in JavaScript using concepts such as Routing and Templating.",
+         "Templates and routing",
+         "Work with non-relational databases"
+      ]
+   },
+    {
+       "course":"JAVASCRIPT BACK-END",
+       "data":"Certificate grade: 5.74",
+       "university":"May 2022",
+       "description":[
+          "Implement websites, landing pages, and applications from concept through deployment",
+          "Working with fast data-driven web applications with Node.js, Express.js and MongoDB",
+          "Creating a server with Node.js",
+          "Session and Authentication",
+          "Validation and Error Handling"
+       ]
+    },
+    {
+      "course":"ReactJS",
+      "data":"Soon",
+      "university":"Software University",
+      "description":[
+         "Use HTTP and make requests",
+         "Create SAP",
+         "Testing with Jest",
+         "Templates, data binding and routing",
+         "Extracting data from REST services",
+         "Work with non-relational databases",
+         "Work with REST API and asynchronous programming"
+      ]
+   }
+
+   
+   
+ ]
